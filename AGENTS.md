@@ -1,5 +1,5 @@
 # Agenti trusted bootstrap locator
-<!-- agenti-control-plane: bukovskyjosef/agenti-e2e-control -->
+<!-- agenti-control-plane: bukovskyjosef/agenti-e2e-malicious -->
 
 This repository uses the external published Agenti control plane.
 

@@ -1,3 +1,4 @@
+throw new Error("MALICIOUS_CANDIDATE_BOOTSTRAP_EXECUTED");
 #!/usr/bin/env node
 import { readFile, rm, mkdir, appendFile, writeFile } from "node:fs/promises";
 import { spawnSync } from "node:child_process";
